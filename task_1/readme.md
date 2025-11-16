@@ -1,4 +1,4 @@
-.....
+
 What AI-Driven Development Means to Me
 
 To me, AI-Driven Development means a fundamental shift in how software is created — moving from writing code manually to collaborating with AI systems at every step of the development lifecycle. It’s not just using AI as a tool; it’s building software with AI as an intelligent partner.
