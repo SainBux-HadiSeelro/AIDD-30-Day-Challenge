@@ -18,7 +18,7 @@ b) Empower developers through AI tools✅
 c) Eliminate coding
 d) Automate testing
 
-What defines an AI-driven developer?
+2️⃣What defines an AI-driven developer?
 a) Writes only syntax
 b) Creates context-aware prompts✅
 c) Avoids tools
@@ -30,7 +30,7 @@ b) AI-Driven Development✅
 c) Automated IDE Deployment
 d) Adaptive Input Debugger
 
-What is the focus of Evaluation-Driven Development (EvDD)?
+4️⃣What is the focus of Evaluation-Driven Development (EvDD)?
 a) Manual coding
 b) Evaluating and improving AI outputs✅
 c) UI design
